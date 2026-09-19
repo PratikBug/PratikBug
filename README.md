@@ -1,46 +1,36 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Pratik+%F0%9F%91%8B;Software+Engineer+%7C+Fintech+%2B+AI;Building+at+the+intersection+of+AI+%E2%9C%A8+%2B+Fintech+%F0%9F%92%B3+%2B+Travel+%E2%9C%88%EF%B8%8F;Ex-Paytm+Money+%F0%9F%9A%80&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=800&color=3B82F6&vCenter=true&size=27" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Pratik+%F0%9F%91%8B;Software+Engineer+%7C+Fintech+%2B+AI;Building+at+the+intersection+of+AI+%2B+Fintech+%2B+Travel;Ex-Paytm+Money+%F0%9F%9A%80&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=800&color=3B82F6&vCenter=true&size=27" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Pratik%20Warathe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20ideas%20into%20shipped%20products&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
-### 🧭 About me
+### About me
 
-```yaml
-whoami:
-  name: Pratik Warathe
-  base: Bangalore, India
-  role: Software Engineer
-  focus: [AI, Fintech, Travel-tech]
-  currently: "Ex-Software Engineer @ Paytm Money · building side projects · open to work"
-  fun_fact: "I ship faster with an AI pair programmer than without one — no shame."
-```
-
-- 💳 ~1.5 years shipping production fintech: Scan QR payments, an MTF calculator, Finvu/CDSL/NSDL portfolio aggregation, and a GitLab → Bitbucket CI/CD migration at **Paytm Money**
-- 🧠 Building **AI-native products** — from PR-reviewing agents to AI trip planners
-- ✈️ Currently deep in **Dawdler**, an AI travel app for Gen Z backpackers
-- 🔭 Actively looking for my next role as a Software / AI Engineer
-- ⚡ Fun fact: I debug with Claude open in one tab and hope in the other
+- Software Engineer with ~1.5 years shipping production fintech: Scan QR payments, an MTF calculator, Finvu/CDSL/NSDL portfolio aggregation, and a GitLab to Bitbucket CI/CD migration at Paytm Money
+- Building AI-native products, from PR-reviewing agents to AI trip planners
+- Currently deep in Dawdler, an AI travel app for Gen Z backpackers
+- Actively looking for my next role as a Software / AI Engineer
+- Fun fact: I debug with Claude open in one tab and hope in the other
 
 <br>
 
-### 🛠️ Featured builds
+### Featured builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧳 [Dawdler](https://dawdler.lovable.app/)**
+**Dawdler**
 AI-powered travel planning app for Gen Z backpackers. React Native + FastAPI/NestJS + Claude API for structured trip planning, with real transit, weather & hotel data grounding.
 `React Native` `FastAPI` `PostgreSQL` `pgvector` `Claude API`
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 DevPilot**
-An AI-powered PR review agent that reads diffs like a senior engineer would — built to cut review turnaround time.
+**DevPilot**
+An AI-powered PR review agent that reads diffs like a senior engineer would, built to cut review turnaround time.
 `AI Agents` `LLMs` `Developer Tooling`
 
 </td>
@@ -48,14 +38,14 @@ An AI-powered PR review agent that reads diffs like a senior engineer would — 
 <tr>
 <td width="50%" valign="top">
 
-**💼 jobHunter**
+**jobHunter**
 Full-stack AI job-search platform: scrapes listings, scores fit with an LLM, and tracks applications end-to-end.
 `Next.js` `FastAPI` `Playwright` `LLM Scoring`
 
 </td>
 <td width="50%" valign="top">
 
-**🩺 MEDApp**
+**MEDApp**
 Android app that identifies medicines from photos to help people avoid mix-ups.
 `Kotlin` `Android` `Image Recognition`
 
@@ -65,13 +55,13 @@ Android app that identifies medicines from photos to help people avoid mix-ups.
 
 <div align="center">
 
-📄 More on my [portfolio](https://pratikxdev-portfolio.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/pratik-warathe) · 📬 [Email](mailto:pratikaieseci123@gmail.com)
+More on my [portfolio](https://pratikxdev-portfolio.vercel.app) &middot; [LinkedIn](https://linkedin.com/in/pratik-warathe) &middot; [Email](mailto:pratikaieseci123@gmail.com)
 
 </div>
 
 <br>
 
-### 🧰 Tech stack
+### Tech stack
 
 <div align="center">
 
@@ -93,16 +83,11 @@ Android app that identifies medicines from photos to help people avoid mix-ups.
 
 <br>
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PratikBug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikBug&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikBug&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikBug&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -110,12 +95,12 @@ Android app that identifies medicines from photos to help people avoid mix-ups.
 
 <div align="center">
 
-💬 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+*"Code is like humor. When you have to explain it, it's bad."* &mdash; Cory House
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
-⭐️ Thanks for stopping by — feel free to explore my pinned repos below!
+Thanks for stopping by, feel free to explore my pinned repos below!
 
 </div>
